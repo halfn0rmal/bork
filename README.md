@@ -1,2 +1,2 @@
 # bork
-A bark operated sprinkler system for training my dog
+A bork operated sprinkler system for training naughty doges
